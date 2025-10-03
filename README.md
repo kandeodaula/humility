@@ -1,4 +1,4 @@
-# Humility: High-Performance Network Intrusion Detection Pipelines
+# Humility: Network Traffic Classification
 
 This repository provides advanced, reproducible pipelines for feature selection, preprocessing, and deep learning model training on large-scale network intrusion datasets, including CICIDS 2017/2018 and LITNET-2020. The code is optimized for maximum resource utilization (L4 GPU + 53GB RAM) and supports both linear and nonlinear feature selection, aggressive data cleaning, and neural network architectures (BiLSTM, Deep Dense, Hybrid).
 
